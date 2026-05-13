@@ -1,5 +1,3 @@
-Aqui está uma proposta de README.md estruturada com base no seu notebook "Inteligência de Vendas e Predição de Performance". Você pode copiar e colar o conteúdo abaixo diretamente no seu repositório ou documentação.
-
 🚀 Inteligência de Vendas e Predição de Performance
 Desenvolvido por: Vitor Fantini
 
