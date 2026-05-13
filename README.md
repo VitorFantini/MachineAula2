@@ -67,7 +67,6 @@ O projeto foi desenhado para lidar com problemas reais de bancos de dados empres
 - **Manipulação de Dados:** Pandas, Numpy
 - **Visualização:** Matplotlib, Seaborn
 - **Modelagem:** Scikit-Learn
-- **Amostragem:** Imbalanced-learn (SMOTE)
 
 ---
 
