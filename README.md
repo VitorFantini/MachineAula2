@@ -58,7 +58,6 @@ O projeto foi desenhado para lidar com problemas reais de bancos de dados empres
 
 ### 3. Machine Learning
 - **Pré-processamento:** One-Hot Encoding para variáveis categóricas.
-- **Balanceamento:** Aplicação de **SMOTE** (*Synthetic Minority Over-sampling Technique*) para equilibrar as classes.
 - **Modelo:** **Random Forest Classifier** com 100 estimadores.
 
 ---
