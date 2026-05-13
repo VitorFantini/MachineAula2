@@ -74,7 +74,7 @@ O projeto foi desenhado para lidar com problemas reais de bancos de dados empres
 ## 📈 Resultados e Insights
 O modelo final demonstrou uma performance excepcional:
 - **Acurácia Global:** 95%
-- **Estabilidade:** Validada através de simulações de Monte Carlo (1000 amostragens).
+- **Estabilidade:** Validada através de simulações (1000 amostragens).
 - **Insight Principal:** O preço unitário e o custo são os fatores determinantes. O género e a localização geográfica têm impacto mínimo na predição de rentabilidade, indicando um comportamento de compra uniforme entre esses grupos.
 
 ---
